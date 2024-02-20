@@ -14,7 +14,7 @@ function AboutCard() {
             I am Ex - Gentleman Cadet, Indian Military Academy, Dehradun.
             <br />
             I have completed Bachelor of Engineering ( B.E ) in Computer Science and Engineering at BIT
-            Bangalore.
+            Bengaluru.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
