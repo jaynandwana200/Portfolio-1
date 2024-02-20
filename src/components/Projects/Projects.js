@@ -23,6 +23,16 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Blog Website"
+              description="The blog website is your gateway to endless inspiration, knowledge, and connection. Dive into a world of diverse topics, compelling stories, and insightful perspectives curated just for you. ."
+              ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://byte-beat.vercel.app/"              
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={chatify}
               isBlog={false}
               title="Bharat Shopee"
@@ -51,16 +61,6 @@ function Projects() {
               description="The video conferencing app is a peer-to-peer solution developed using Django and WebRTC. It ensures secure connections with RTC Tunnel technology and facilitates real-time video communication between users."
               ghLink="https://github.com/soumyajit4419/Editor.io"
               // demoLink="https://editor.soumya-jit.tech/"              
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={editor}
-              isBlog={false}
-              title="Blog Website"
-              description="The blog website is your gateway to endless inspiration, knowledge, and connection. Dive into a world of diverse topics, compelling stories, and insightful perspectives curated just for you. ."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://byte-beat.vercel.app/"              
             />
           </Col>
 {/* 
