@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://soumyajitblogs.vercel.app/"
+                href="https://byte-beat.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -103,14 +103,14 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item className="fork-btn">
-              <Button
+              {/* <Button
                 href="https://github.com/soumyajit4419/Portfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
                 <AiFillStar style={{ fontSize: "1.1em" }} />
-              </Button>
+              </Button> */}
             </Nav.Item>
           </Nav>
         </Navbar.Collapse>
