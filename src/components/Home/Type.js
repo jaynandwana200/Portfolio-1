@@ -9,6 +9,7 @@ function Type() {
           "Software Developer",
           "Android Developer",
           "Django Developer",
+          "Competitive programmer",
         ],
         autoStart: true,
         loop: true,
