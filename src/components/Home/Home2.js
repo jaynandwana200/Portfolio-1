@@ -21,7 +21,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with Computer Science and Programming and 
-              uses it to turn visionary ideas into impactful solutions.
+              now I use it to turn visionary ideas into impactful solutions.
               <br />
               <br />I am fluent in classics like
               <i>
