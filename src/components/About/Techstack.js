@@ -14,11 +14,12 @@ import {
 import {
   SiTailwindcss,
   SiFirebase,
+  SiGnubash,
   SiPostgresql,
   SiFlutter,
   SiAndroidstudio,
-  SiWebrtc
-
+  SiWebrtc,
+  SiAwsamplify,
 } from "react-icons/si";
 
 function Techstack() {
@@ -35,6 +36,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGnubash />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiHtml5 />
@@ -59,6 +63,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAwsamplify />
       </Col>
       <Col xs={4} md={2} className="tech-icons"> 
         <DiGit />

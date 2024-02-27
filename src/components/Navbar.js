@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://byte-beat.vercel.app/"
+                href="https://main.d1s1uqci9e5fb6.amplifyapp.com/"
                 target="_blank"
                 rel="noreferrer"
               >
