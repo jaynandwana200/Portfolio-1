@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Blog Website"
               description="The blog website is your gateway to endless inspiration, knowledge, and connection. Dive into a world of diverse topics, compelling stories, and insightful perspectives curated just for you. ."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://main.d1s1uqci9e5fb6.amplifyapp.com/"              
             />
           </Col>
