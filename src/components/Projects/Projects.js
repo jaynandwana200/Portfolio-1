@@ -38,7 +38,7 @@ function Projects() {
               title="Bharat Shopee"
               description="The e-commerce website is a platform built using Django, PostgreSQL, and HTML/CSS, designed for local producers to sell their products online. It features integrated security measures, including ORM for SQL injection prevention, and supports seamless transactions through an online payment gateway."
               ghLink="https://github.com/jaynandwana200/Django-MAC-Ecom-Website/tree/master/Django/MAC"
-              demoLink="https://chatify-49.web.app/"
+              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
