@@ -38,6 +38,18 @@ function Projects() {
               demoLink="https://django-mac-ecom-website.vercel.app/"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Lead Management System"
+              description="Developed to streamline Key Account Managers' workflows, enhancing lead tracking and large account performance 
+management.Follow-ups are scheduled by automatically generating call interactions through background processes based on 
+predefined call frequencies. "
+              ghLink="https://github.com/jaynandwana200/KAM"
+              demoLink="http://3.107.25.45/"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
